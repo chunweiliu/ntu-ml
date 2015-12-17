@@ -1,0 +1,5 @@
+Training Data = 40000, Argument (T = 100, TreeNode = 1); The 5 fold corss validation error EV = 0.328850
+Training Data = 40000, Argument (T = 100, TreeNode = 5); The 5 fold corss validation error EV = 0.318450
+Training Data = 40000, Argument (T = 100, TreeNode = 10); The 5 fold corss validation error EV = 0.318025
+Training Data = 40000, Argument (T = 100, TreeNode = 20); The 5 fold corss validation error EV = 0.318100
+Training Data = 40000, Argument (T = 100, TreeNode = 40); The 5 fold corss validation error EV = 0.319100

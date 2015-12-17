@@ -1,0 +1,9 @@
+anyada is a generic implementation of AdaBoost when the hypothesis can take values other than {-1, +1}
+
+it can easily be extended to many different formulations
+
+example
+
+anyada(x, y, 100, vx, vy, tx, ty, stumplearn, stumpfunc)
+
+where x is N (examples) by d (features), and y is N by 1 with values {-1, 1}.
